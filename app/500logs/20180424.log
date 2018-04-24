@@ -1,0 +1,70 @@
+[Tue, 24 Apr 18 03:55:59 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 03:55:59 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 03:55:59 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 03:56:00 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 11:19:18 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 11:19:18 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 11:19:18 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 11:19:18 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:56:45 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:56:45 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:56:45 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:05 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:05 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:05 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:05 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:24 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:24 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:24 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 13:59:24 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br LIMIT :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE <br LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 15:26:07 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '85' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:26:35 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '85' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:32:40 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '85' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:35:04 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '87' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:36:58 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '87' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:38:14 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '87' LIMIT :APL0:
+
+[Tue, 24 Apr 18 15:38:55 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '87' LIMIT :APL0:
+
+[Tue, 24 Apr 18 16:08:56 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid = '87' LIMIT :APL0:
+
+[Tue, 24 Apr 18 16:21:47 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid=88 LIMIT :APL0:
+
+[Tue, 24 Apr 18 16:21:53 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid=86 LIMIT :APL0:
+
+[Tue, 24 Apr 18 16:31:14 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid ='86' LIMIT :APL0:
+
+[Tue, 24 Apr 18 16:32:59 +0700][ERROR] [0]: Column 'actid' doesn't belong to any of the selected models (1), when preparing: SELECT [Activities].* FROM [Activities] WHERE actid ='85' LIMIT :APL0:
+
+[Tue, 24 Apr 18 19:59:37 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE id= LIMIT :APL0: (62)
+
+[Tue, 24 Apr 18 20:33:47 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE 'id'= LIMIT :APL0: (64)
+
+[Tue, 24 Apr 18 20:33:51 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE 'id'= LIMIT :APL0: (64)
+
+[Tue, 24 Apr 18 20:33:59 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [Activities].* FROM [Activities] WHERE 'id'= LIMIT :APL0: (64)
+
